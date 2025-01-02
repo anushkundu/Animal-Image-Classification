@@ -29,3 +29,15 @@ The models were assessed based on multiple performance metrics, including accura
 •	Cross Validation
 
 •	Evaluation Metrics
+
+# Conclusion
+
+The results indicate that transfer learning, especially with models like MobileNetV2 and InceptionV3, offers superior performance in terms of accuracy, generalization, and computational efficiency compared to a traditional CNN model.
+
+MobileNetV2 emerged as the best-performing model, achieving near-perfect validation and testing accuracies (99.9% and 99%, respectively), followed closely by InceptionV3, which also showed robust performance across all folds.
+
+The Base CNN model demonstrated good training accuracy but suffered from overfitting, as reflected by its drop in testing accuracy. VGG19 offered solid performance but was outperformed by the more computationally efficient MobileNetV2 and InceptionV3.
+
+The ResNet50 model performed poorly, with inconsistent results across different folds and low testing accuracy, suggesting it was not well-suited for this specific task without further fine-tuning.
+
+Overall, this analysis highlights the effectiveness of transfer learning in multi-class animal classification tasks, particularly when using lightweight models like MobileNetV2, which balance high accuracy with computational efficiency.
