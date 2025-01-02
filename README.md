@@ -12,11 +12,20 @@ This analysis focused on different aspects of the models, including architecture
 The models were assessed based on multiple performance metrics, including accuracy, precision, recall, and confusion matrix. By exploring these dimensions, the goal was to establish a model that not only delivered high classification accuracy but also balanced the trade-offs between performance and resource utilization. 
 
 # Key Task:
-i. Developed a custom CNN model.
-ii. Pre-Trained Model:
+
+•	Custom CNN model.
+
+•	Pre-Trained Model:
+
       1. VGG19
+      
       2. ResNet50
+      
       3. MobileNetV2
+      
       4. InceptionV3
-iii. Cross Validation
-iv. Evaluation Metrics
+      
+
+•	Cross Validation
+
+•	Evaluation Metrics
