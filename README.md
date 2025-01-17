@@ -13,7 +13,7 @@ The models were assessed based on multiple performance metrics, including accura
 
 # Key Task:
 
-•	Custom CNN model.
+•	Collected, cleaned, and preprocessed large image datasets for training and testing.
 
 •	Pre-Trained Model:
 
@@ -26,9 +26,11 @@ The models were assessed based on multiple performance metrics, including accura
       4. InceptionV3
       
 
-•	Cross Validation
+•	Performed Cross Validation to insure model realibility.
 
-•	Evaluation Metrics
+•	Fine-tuned pre-trained models to optimize accuracy and efficiency.
+
+•	Evaluated model performance using metrics like accuracy, precision, recall, and confusion matrix.
 
 # Conclusion
 
