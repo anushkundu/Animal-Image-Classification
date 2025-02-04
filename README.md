@@ -1,6 +1,6 @@
 # Effective Deep Learning Approached for Animal Classification.
 The primary objective of this project was to develop a robust and accurate machine learning model for the classification of various animal species from images. 
-sa
+
 Furthermore, using the power of transfer learning, this research sought to create a sophisticated multi-class classification system capable of distinguishing and categorizing different animal species based on their visual features.
 
 A key component of this thesis was the evaluation and implementation of transfer learning techniques. Transfer learning involved using pre-trained models as a starting point, which significantly reduced the time and computational resources required for training, while potentially improving the model's accuracy and generalization capabilities.
