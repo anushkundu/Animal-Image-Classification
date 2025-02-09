@@ -2,7 +2,7 @@
 The primary objective of this project was to develop a robust and accurate machine learning model for the classification of various animal species from images. 
 
 Furthermore, using the power of transfer learning, this research sought to create a sophisticated multi-class classification system capable of distinguishing and categorizing different animal species based on their visual features.
-gh
+
 A key component of this thesis was the evaluation and implementation of transfer learning techniques. Transfer learning involved using pre-trained models as a starting point, which significantly reduced the time and computational resources required for training, while potentially improving the model's accuracy and generalization capabilities.
 
 A comparative analysis of various pre-trained models, such as those based on deep learning architectures like Convolutional Neural Networks (CNNs), was conducted.
