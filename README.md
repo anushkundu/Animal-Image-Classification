@@ -1,4 +1,4 @@
-sas
+asassas
 # Effective Deep Learning Approached for Animal Classification.
 The primary objective of this project was to develop a robust and accurate machine learning model for the classification of various animal species from images. 
 
